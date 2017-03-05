@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ptm",
+  "name": "Techno mod for PegasusCraft",
+  "description": "Mod that can be better than IC",
+  "version": " alpha 0.001",
+  "mcversion": "1.7.10",
+  "url": "http://pegasuscraft.ru/",
+  "updateUrl": "",
+  "authorList": ["MrGreenCheezz"],
+  "credits": "MrGreenCheezz and unknown Youtuber",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
